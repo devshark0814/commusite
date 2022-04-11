@@ -1,3 +1,3 @@
 <template>
-  <div>ddd</div>
+  <div>dashboard</div>
 </template>
